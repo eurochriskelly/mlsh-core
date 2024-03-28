@@ -1,0 +1,15 @@
+{
+  "name": "mlsh-core",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "mlsh-package": "./bin/package.js",
+    "mlsh-scaffold": "./bin/scaffold.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
